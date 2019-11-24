@@ -1,7 +1,7 @@
 # CZPoisson
 The CZPoisson R package is designed to replicate Catherine Loader's dpois implementation to calculate the approximate Poisson distribution.
 For a description of the methods available and some simple examples, please see the
-[package vignette](https://github.com/cynzajac/CZPoisson.git/inst/doc/CZPoisson_package.pdf?raw=true) or the R documentation. 
+[package vignette](https://github.com/cynzajac/CZPoisson/blob/master/inst/doc/CZPoisson_package.pdf) or the R documentation. 
 For installation help, see below.
 
 ## Installing the CZPoisson Package
