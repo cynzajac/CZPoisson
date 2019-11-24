@@ -3,7 +3,8 @@ The CZPoisson R package is designed to replicate Catherine Loader's dpois implem
 For a description of the methods available and some simple examples, please see the
 [package vignette](https://github.com/cynzajac/CZPoisson.git/inst/doc/CZPoisson_package.pdf?raw=true) or the R documentation. 
 For installation help, see below.
-##Installing the CZPoisson Package
+
+## Installing the CZPoisson Package
 The CZPoisson package can be installed using the devtools package. The following code when executed in R will get you started:
 ```
 install.packages("devtools")
