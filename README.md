@@ -17,3 +17,5 @@ Note that some versions of devtools do not install all dependencies, so one may 
 You can additionally view the package help or vignette in R:
 - `?CZPoisson`
 - `vignette("CZPoisson-package")`
+
+[![Build Status](https://travis-ci.org/cynzajac/CZPoisson.svg?branch=master)](https://travis-ci.org/cynzajac/CZPoisson)
