@@ -19,3 +19,4 @@ You can additionally view the package help or vignette in R:
 - `vignette("CZPoisson-package")`
 
 [![Build Status](https://travis-ci.org/cynzajac/CZPoisson.svg?branch=master)](https://travis-ci.org/cynzajac/CZPoisson)
+[![Codecov test coverage](https://codecov.io/gh/cynzajac/CZPoisson/branch/master/graph/badge.svg)](https://codecov.io/gh/cynzajac/CZPoisson?branch=master)
