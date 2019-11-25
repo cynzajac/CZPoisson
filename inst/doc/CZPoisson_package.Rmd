@@ -30,7 +30,7 @@ The repo for CZPoisson can be found:
 CZPoisson containes two functions: 
 
 1. Poisson probability mass function `r`
-2. Poisson cumulative distribution `cdf`
+2. Poisson cumulative distribution function `cdf`
 
 `r` takes two or three arguments:
 
