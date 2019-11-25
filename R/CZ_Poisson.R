@@ -54,9 +54,6 @@ r_single_nolog <- function(x,lamb){
     # Calculate the exact poisson distribution
     (lamb^x/factorial(x)*exp(-lamb))
   }
-  else {
-    return(0)
-  }
 }
 
 r_single_log <- function(x,lamb){
@@ -92,9 +89,6 @@ r_single_log <- function(x,lamb){
   else if (x <= 5){
     # Calculate the exact log poisson distribution
     x*log(lamb) - lfactorial(x) - lamb
-  }
-  else {
-    return(-Inf)
   }
 }
 
